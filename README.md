@@ -2,6 +2,6 @@
 ### ИНСТРУКЦИЯ ПО ЗАПУСКУ
 *Установите библиотеку progress*
 
-$ pip install progress *(Gnu\Linux)*
+$ **pip install progress** *(Gnu\Linux)*
 
-C:\> pip install progress *(Microsoft Windows)*
+C:\> **pip install progress** *(Microsoft Windows)*
